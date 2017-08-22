@@ -1,0 +1,111 @@
+[{
+	"Pernr": "Pernr 1",
+	"Nachn": "Nachn 1",
+	"Vorna": "Vorna 1",
+	"Gbdat": "Gbdat 1",
+	"Natio": "Natio 1",
+	"Perid": "Perid 1",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%201')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 2",
+	"Nachn": "Nachn 2",
+	"Vorna": "Vorna 2",
+	"Gbdat": "Gbdat 2",
+	"Natio": "Natio 2",
+	"Perid": "Perid 2",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%202')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 3",
+	"Nachn": "Nachn 3",
+	"Vorna": "Vorna 3",
+	"Gbdat": "Gbdat 3",
+	"Natio": "Natio 3",
+	"Perid": "Perid 3",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%203')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 4",
+	"Nachn": "Nachn 4",
+	"Vorna": "Vorna 4",
+	"Gbdat": "Gbdat 4",
+	"Natio": "Natio 4",
+	"Perid": "Perid 4",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%204')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 5",
+	"Nachn": "Nachn 5",
+	"Vorna": "Vorna 5",
+	"Gbdat": "Gbdat 5",
+	"Natio": "Natio 5",
+	"Perid": "Perid 5",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%205')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 6",
+	"Nachn": "Nachn 6",
+	"Vorna": "Vorna 6",
+	"Gbdat": "Gbdat 6",
+	"Natio": "Natio 6",
+	"Perid": "Perid 6",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%206')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 7",
+	"Nachn": "Nachn 7",
+	"Vorna": "Vorna 7",
+	"Gbdat": "Gbdat 7",
+	"Natio": "Natio 7",
+	"Perid": "Perid 7",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%207')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 8",
+	"Nachn": "Nachn 8",
+	"Vorna": "Vorna 8",
+	"Gbdat": "Gbdat 8",
+	"Natio": "Natio 8",
+	"Perid": "Perid 8",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%208')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 9",
+	"Nachn": "Nachn 9",
+	"Vorna": "Vorna 9",
+	"Gbdat": "Gbdat 9",
+	"Natio": "Natio 9",
+	"Perid": "Perid 9",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%209')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}, {
+	"Pernr": "Pernr 10",
+	"Nachn": "Nachn 10",
+	"Vorna": "Vorna 10",
+	"Gbdat": "Gbdat 10",
+	"Natio": "Natio 10",
+	"Perid": "Perid 10",
+	"__metadata": {
+		"uri": "EmployeeSet('Pernr%2010')",
+		"type": "Z_GW_EMPLOYEE_SRV.Employee"
+	}
+}]
